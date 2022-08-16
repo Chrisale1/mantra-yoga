@@ -145,3 +145,125 @@ hr{
     font-weight: 400%;
     color: #ffffff;
 }
+
+/*footer*/
+#mantra-cont {
+    width: 100%;
+}
+
+#left-cont{
+    width: 33%;
+    float: left;
+}
+#left-cont h3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #DAA520;
+    text-transform: uppercase;
+    font-size: 150%;
+    clear: both;
+
+}
+
+#right-cont{
+    width: 33%;
+    float: right;
+}
+
+#right-cont h3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #DAA520;
+    text-transform: uppercase;
+    font-size: 150%;
+    clear: both;
+
+}
+
+#right-cont p{
+    text-align: center;
+    font-size: 110%;
+    width: 100%;
+}
+
+#center-cont {
+    width: 33%;
+    margin: 0 auto;
+}
+
+#center-cont h3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #DAA520;
+    text-transform: uppercase;
+    font-size: 150%;   
+}
+
+#center-cont div {
+    width: 100%;
+    font-size: 110%;
+    text-align: left;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-bottom: 5px;
+}
+
+.cont {
+    text-align: left;
+    margin-left: 50px;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 15px;
+    
+}
+
+
+table {
+    text-align: center;
+    width: 70%;
+    margin-left: 40px;
+}
+
+tr {
+    text-align: center;
+    padding-top: 5px;
+    font-weight: bold;
+    color: black;
+}
+
+td{
+    padding-top: 5px;
+}
+
+.social-networks {
+    width: 100%;
+    font-size: 180%;
+    text-align: center;
+    clear: both;
+    color: #DAA520;
+    margin: 1px;
+}
+
+
+.social-networks li{
+    display: inline;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+.social-networks i{
+    
+    color: #DAA520;
+    padding: 2%;
+}
+
+footer > p {
+    font-size: 100%;
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+}
