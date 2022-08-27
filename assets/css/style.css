@@ -382,7 +382,7 @@ footer > p {
     #nav-menu{
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 10px;
         margin-bottom: 20px;
         line-height: 25px;
     }
@@ -396,7 +396,7 @@ footer > p {
        #tech-yoga > div {
         width: 100%;
         clear: both;
-        height: 400px;
+        height: 280px;
         padding: 0;
    }
 }
