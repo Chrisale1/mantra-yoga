@@ -309,12 +309,7 @@ footer > p {
 .in-text:hover {
     border-color: #f3e6e6;
 }
-.in-text::placeholder {
-    text-align: left;
-    color: #f3e6e6;
-    font-size: 100%;
-    margin-left: 1%;
-}
+
 
 .reg-button {
     text-align: center;
@@ -331,6 +326,8 @@ footer > p {
     background-color: #f3e6e6;
     color: #DAA520;
 }
+
+/* gallery page*/
 
 /* Media queries */
 
@@ -371,7 +368,6 @@ footer > p {
         width: 100%;
         float: left;
         padding: 0;
-        margin: 0;
         text-align: center;
    }
 
@@ -414,8 +410,17 @@ footer > p {
        #tech-yoga > div {
         width: 100%;
         clear: both;
-        height: 285px;
+        height: 290px;
         padding: 0;
+   }
+   #left-cont tr, td{
+    text-align: center;
+    padding: 0 20px;
+
+   }
+   #right-cont p {
+    text-align: justify;
+    padding: 0 20px;
    }
 }
 
