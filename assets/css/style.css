@@ -332,7 +332,9 @@ footer > p {
     clear: both;
     line-height: 0;
     column-count: 4;
-    column-gap: 0;
+    column-gap: 1em;
+    
+
 }
 
 #fotos > img {
@@ -424,13 +426,11 @@ footer > p {
         height: 300px;
         padding: 0;
    }
-   #left-cont tr, td{
-    text-align: center;
-    padding: 0 20px;
+   
 
    }
    #right-cont p {
-    text-align: justify;
+    text-align: center;
     padding: 0 20px;
    }
 
