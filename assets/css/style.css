@@ -445,13 +445,13 @@ footer > p {
 
     #logo{
         font-size: 250%;
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
     #nav-menu{
         clear: left;
         float: left;
-        margin-left: 20px;
+        margin-left: 10px;
         margin-bottom: 20px;
         line-height: 25px;
     }
