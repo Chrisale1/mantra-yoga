@@ -400,3 +400,14 @@ footer > p {
         padding: 0;
    }
 }
+
+@media screen and (max-width: 550px) {
+    #nav-menu{
+        clear: left;
+        float: left;
+        margin-left: 5px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
+
