@@ -146,7 +146,6 @@ hr{
     color: #ffffff;
 }
 
-/*footer*/
 #mantra-cont {
     width: 100%;
 }
@@ -158,7 +157,7 @@ hr{
 #left-cont h3 {
     width: 100%;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #DAA520;
     text-transform: uppercase;
     font-size: 150%;
@@ -174,7 +173,7 @@ hr{
 #right-cont h3 {
     width: 100%;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #DAA520;
     text-transform: uppercase;
     font-size: 150%;
@@ -196,7 +195,7 @@ hr{
 #center-cont h3 {
     width: 100%;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #DAA520;
     text-transform: uppercase;
     font-size: 150%;   
@@ -238,6 +237,7 @@ td{
     padding-top: 5px;
 }
 
+/*footer*/
 .social-networks {
     width: 100%;
     font-size: 120%;
@@ -330,4 +330,48 @@ footer > p {
 .reg-button:hover {
     background-color: #f3e6e6;
     color: #DAA520;
+}
+
+/* Media queries */
+
+/* For large and Medium screen size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+   #tech-yoga > div {
+        width: 100%;
+        clear: both;
+        height: 200px;
+        padding: 0;
+   }
+
+   #mantra-cont {
+    width: 65%;
+    height: 500px;
+    margin: 0 auto;
+   }
+
+   #tech-header{
+    padding: 30px 0;
+    /*margin to cleanup any additional gap inherited*/
+    margin: 0;
+   }
+
+   #left-cont, #right-cont{
+        width: 100%;
+        float: left;
+        padding: 0;
+        text-align: center;
+   }
+
+   #center-cont{
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+        text-align: center;
+   }
+
+   #left-cont, #right-cont, #center-cont h3{
+    margin-top: 10px;
+    text-align: center;
+   }
 }
