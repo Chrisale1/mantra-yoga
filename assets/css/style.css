@@ -204,7 +204,7 @@ hr{
 #center-cont div {
     width: 100%;
     font-size: 110%;
-    text-align: left;
+    
     margin: 0 auto;
     padding-left: 50px;
     padding-bottom: 5px;
@@ -371,7 +371,6 @@ footer > p {
         width: 100%;
         float: left;
         padding: 0;
-        text-align: center;
    }
 
    #left-cont, #right-cont, #center-cont h3{
@@ -413,7 +412,7 @@ footer > p {
        #tech-yoga > div {
         width: 100%;
         clear: both;
-        height: 280px;
+        height: 285px;
         padding: 0;
    }
 }
