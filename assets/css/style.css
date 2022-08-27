@@ -412,6 +412,7 @@ footer > p {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+        letter-spacing: 3px;
     }
 
     #mantra-cont {
@@ -443,17 +444,5 @@ footer > p {
         column-count: 2;
     }
 
-    #logo{
-        font-size: 250%;
-        margin-left: 10px;
-    }
-
-    #nav-menu{
-        clear: left;
-        float: left;
-        margin-left: 10px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-
+  
 }
