@@ -22,11 +22,17 @@ Mobile screen shoot of page
 
 .user will easily be able to follow us on social media links by click on the social media icons
 
+## WireFrame
+
+Wireframe pictures can be found in a folder named wireframe in the assets of the project [assets/wireframes].
+
 ## Technology used 
 
 . HTML5 : Html5 was mostly used on the this project as the the basic structure and content of the pages
 
 . CSS3 : Css3 was used to styled and also make the web pages responsive 
+
+.WireFrame: wireframe was used to make the structural skeleton of the page 
 
 ### Liberaries & Programs used
 
