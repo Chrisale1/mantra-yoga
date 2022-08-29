@@ -7,7 +7,8 @@ This is a desktop view of home page
 <img src="assets/images/Mantra Yoga LP.png">
 
 Mobile screen shoot of page
-<img src="assets/images/home.jpeg"> <img src="assets/images/signup.jpeg">
+<img src="assets/images/home.jpeg"> 
+<img src="assets/images/signup.jpeg">
 
 ## <b>User Experience UX
 
@@ -42,6 +43,8 @@ Mobile screen shoot of page
 ## TESTING
 
 Each HTML5 pages was with tested [W3C Markup Validator-Results](https://validator.w3.org/) and sintax error was fixed also CSS page was also tested with [W3C CSS Validator-Results](https://jigsaw.w3.org/css-validator/validator).
+
+Using the W3C i found a lot of sibtax error on gallery page due to the fact that my pictures was save with space in between names so i added underscore to the names of pictures and also change the section to div  because no heading was needed if i use div.
 
 when testing for responsiviness in different devices. I had problems with the navigation links fiting into small mobile screen. So i had to reduce the margin from left from both the logo and navigation link.
 
