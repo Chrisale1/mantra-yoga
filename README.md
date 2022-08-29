@@ -6,6 +6,9 @@ This is a website about a yoga studio. It shows some different yoga techniques, 
 This is a desktop view of home page
 <img src="assets/images/Mantra Yoga LP.png">
 
+Mobile screen shoot of page
+<img src="assets/images/home.jpeg"> <img src="assets/images/signup.jpeg">
+
 ## <b>User Experience UX
 
 ### . User story
@@ -44,7 +47,7 @@ when testing for responsiviness in different devices. I had problems with the na
 
 Also on problems with fiting contents of the yoga techniques in the box when screen size is reduced so height of the div was increase.
 
-Testing on responsiviness was done on various mobile devices with different screen size, tablets, laptops  and desktop. Also window resizer was used to check for different screen.
+Testing on responsiviness was done on various mobile devices with different screen size, tablets, laptops  and desktop. Also window resizer was used to check for different screen size.
 
 ## Deployment
 
